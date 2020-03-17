@@ -57,7 +57,6 @@ for ind in range(2,sheet2.max_row+1):
         postRequestMethod(sheet2,ind,req)
     else:
         getRequestMethod(sheet2,ind,req)
-
 wb.save('urlsexcel.xlsx')
    
 
