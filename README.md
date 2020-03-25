@@ -11,3 +11,50 @@ Directory where python is installed:
 Directory where scripts like pip are:
 
 <img align="center" width="350" height="150" src="Images/3.png"> 
+
+Now set these paths in PATH under System variables:
+
+<img align="center" width="350" height="150" src="Images/4.png"> 
+
+* IDE – Visual Studio Code Installation
+
+Go to https://code.visualstudio.com/.Click Download for Windows
+
+<img align="center" width="350" height="150" src="Images/5.png"> 
+
+Click Save
+
+<img align="center" width="350" height="150" src="Images/6.png"> 
+
+Click Run
+
+<img align="center" width="350" height="150" src="Images/7.png"> 
+
+Select “I accept the agreement”. Than Click Next
+
+<img align="center" width="350" height="150" src="Images/8.png"> 
+
+Click Next
+
+<img align="center" width="350" height="150" src="Images/9.png"> 
+
+Click Next
+
+<img align="center" width="350" height="150" src="Images/10.png"> 
+
+Click Next
+
+<img align="center" width="350" height="150" src="Images/11.png"> 
+
+Click Install
+
+<img align="center" width="350" height="150" src="Images/12.png"> 
+
+Click Finish
+
+<img align="center" width="350" height="150" src="Images/13.png"> 
+
+## VS Code Configuration:
+
+Now launch VS code IDE and open the python folder containing script. You will
+notice it will prompt you to set interpreter
